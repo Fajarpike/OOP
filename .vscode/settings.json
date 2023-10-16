@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\User\\Downloads\\json-simple-1.1.1.jar",
+        "c:\\Users\\User\\Downloads\\json-simple-1.1.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
